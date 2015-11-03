@@ -1,7 +1,7 @@
 name: Create Photographic
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.15057961829006672
+typography_spectrum: 0.59819
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#a1a2a8'
     - '#7d7c73'
   brandStrength: 0.6875
-  lightness: 0.475923974532634
-  saturation: 0.41504887235350907
-  rhythmicContrast: 0.8218199845869094
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
