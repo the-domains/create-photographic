@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Create Photographic Commercial Photography]]></title>
         <description><![CDATA[Create Photographic Commercial Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/create-photographic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 12:44:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 12:46:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/create-photographic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Aythorpe | Crest Nicholson | Architectural Photography ]]></title>
             <description><![CDATA[<article><h1>Aythorpe | Crest Nicholson | Architectural Photography </h1><p>Exterior and Interior architectural photography at the stunning prestigous Crest Nicholson Aythorpe development</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e202a2-4422-447d-8383-2bad0f26e99e.jpg"></article>]]></description>
-            <link>undefinedaythorpe-or-crest-nicholson-or-architectural-photography/index.html</link>
+            <link>https://thegrid.ai/create-photographic/aythorpe-or-crest-nicholson-or-architectural-photography/index.html</link>
             <guid isPermaLink="false">213189ef-7ec6-423b-b862-98666c29ad25</guid>
-            <pubDate>Tue, 03 Nov 2015 12:43:52 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2015 12:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
